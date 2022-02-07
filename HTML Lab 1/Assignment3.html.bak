@@ -1,0 +1,21 @@
+Assignment 3
+
+<html>
+	<head>
+		<title>UND Men's Hockey Team</title>
+	</head>
+	<body>
+	<h4>Back to <a href=index.html> Index</a> page</h4>
+	<h2><center>UND Men's Hockey Team</center></h2>
+	<p>I have the honour of playing for one of the best hockey programs in the country, but 
+	with that comes an extremely demanding schedule. I am at the rink every morning from 6:30am to 12pm 
+	on the weekdays and every weekend we play two games either at home or on the road. Although the schedule can be time consuming I</p>
+	<p> </p>
+	<center><img src="https://pbs.twimg.com/profile_images/1363710291230482432/YirpCwBG_400x400.jpg"></center>
+	</br>
+	<center><iframe width="560" height="315" src="https://www.youtube.com/embed/iDUJbdM-qy0" title="YouTube video player" 
+	frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+	allowfullscreen></iframe></center>
+	<h4>Back to <a href=index.html> Index</a> page</h4>
+	</body>
+</html>
